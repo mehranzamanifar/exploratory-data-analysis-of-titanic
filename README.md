@@ -1,4 +1,3 @@
 # exploratory-data-analysis-of-titanic
 
-**This is just a test**
-**Another test**
+**This project tries to find correlation between some variables in titanic dataset**
